@@ -1,0 +1,13 @@
+# Environment files
+.env
+.env.local
+.env*.local
+
+# Development files
+.next-dev.*.log
+
+# Node modules (Vercel installs its own)
+node_modules/
+
+# Scripts (not needed in production)
+scripts/
